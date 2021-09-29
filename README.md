@@ -1,4 +1,4 @@
-# auth-using-jwt-and-hash-password
+# auth-using-jwt-and-hash-encrypt-password
 
 1)Nodejs
 2)Mongoose
